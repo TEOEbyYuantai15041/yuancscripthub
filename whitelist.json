@@ -1,0 +1,18 @@
+{
+  "users": {
+    "5423992444": true,
+    "8417141094": true,
+  },
+  "metadata": {
+    "version": "alpha 912.56_327",
+    "lastUpdated": "2024-01-25",
+    "description": "Yuan ScriptHub白名单用户列表",
+    "totalUsers": 5
+  },
+  "settings": {
+    "enabled": true,
+    "strictMode": false,
+    "allowBypass": true,
+    "maxRetries": 3
+  }
+}
